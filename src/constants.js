@@ -104,7 +104,7 @@ export const education = [
     id: 0,
     img: unitedLogo,
     school: "United College of Engineering, A-31, UPSIDC Industrial Area, Naini, Prayagraj, Chak Noor, Uttar Pradesh 211010",
-    date: "Sept 2018 - Aug 2021",
+    date: "Expected Graduation: 2026",
     grade: "73.2%",
     desc: "I completed my Bachelor of Computer Application (BCA) from United College of Engineering, A-31, UPSIDC Industrial Area, Naini, Prayagraj, Chak Noor, Uttar Pradesh 211010. Throughout my studies, I was immersed in a variety of subjects that deepened my understanding of computing and technology. From exploring Data Structures and Algorithms to diving into Web Development and Database Management Systems, I gained practical insights into the world of software development. My time at United College of Engineering allowed me to work on projects that applied theoretical concepts to real-world problems.",
     degree: "Bachelor of Computer Application - BCA",
