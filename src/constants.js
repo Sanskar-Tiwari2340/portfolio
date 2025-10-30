@@ -41,7 +41,7 @@ import unitedLogo from './assets/education_logo/united_logo.jpg';
 // Project Section Logo's
 import tastybitesLogo from './assets/work_logo/TastyBites.png';
 import notetakingLogo from './assets/work_logo/NoteTaking.png';
-import todoappLogo from './assets/work_logo/TodoApp.png';
+import todoappLogo from './assets/work_logo/ToDo App.png';
 
 export const SkillsInfo = [
   {
