@@ -40,7 +40,6 @@ import unitedLogo from './assets/education_logo/united_logo.jpg';
 
 // Project Section Logo's
 import tastybitesLogo from './assets/work_logo/TastyBites.png';
-import notetakingLogo from './assets/work_logo/NoteTaking.png';
 import todoappLogo from './assets/work_logo/ToDo App.png';
 
 export const SkillsInfo = [
@@ -142,15 +141,6 @@ export const projects = [
   },
   {
     id: 1,
-    title: "Note Taking Application",
-    description: "A full-stack note-taking application that allows users to create, edit, and delete notes. The app features a user-friendly interface and utilizes a RESTful API for seamless data management.",
-    image: notetakingLogo,
-    tags: ["React JS", "Node.js", "MongoDB", "Express", "Tailwind CSS", "HTML", "JavaScript"],
-    github: "https://github.com/Sanskar-Tiwari2340/note-taking-app",
-    webapp: "https://note-app-frontend-v3te.onrender.com/",
-  },
-  {
-    id: 2,
     title: "Todo Application",
     description: "A simple and intuitive Todo Application built with React.js that allows users to manage their tasks efficiently. Users can add, edit, delete, and mark tasks as completed.",
     image: todoappLogo,
